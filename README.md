@@ -22,7 +22,7 @@ The workflow includes:
 
 ### Workflow overview
 
-![Workflow overview](figures/workflow-overview.tif)
+![Workflow overview](figures/workflow-overviews.tif)
 
 ## Data Sources and Availability
 
@@ -32,7 +32,7 @@ The codes for the machine learning model and the data for molecular dynamics sim
 
 ### Analysis tools overview
 
-![Workflow overview](figures/tools-overview.tif)
+![Workflow overview](figures/tools-overviews.tif)
 
 ## Repository Structure
 
