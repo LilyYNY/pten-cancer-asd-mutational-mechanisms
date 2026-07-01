@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated publication."
+title: "PTEN Cancer/ASD Mutational Mechanisms"
+type: software
+authors:
+  - family-names: Yang
+    given-names: Miao
+repository-code: "https://github.com/LilyYNY/pten-cancer-asd-mutational-mechanisms"
+url: "https://zenodo.org/records/15023200"
+date-released: "2025-04-01"
+preferred-citation:
+  type: article
+  title: "Machine Learning and Structural Dynamics-Based Approach to Reveal Molecular Mechanism of PTEN Missense Mutations Shared by Cancer and Autism Spectrum Disorder"
+  authors:
+    - family-names: Yang
+      given-names: Miao
+    - family-names: Wang
+      given-names: J
+    - family-names: Zhou
+      given-names: Z
+    - family-names: Li
+      given-names: W
+    - family-names: Verkhivker
+      given-names: G
+    - family-names: Xiao
+      given-names: F
+    - family-names: Hu
+      given-names: G
+  journal: "Journal of Chemical Information and Modeling"
+  year: 2025
+  volume: 65
+  issue: 8
+  start: 4173
+  end: 4188
