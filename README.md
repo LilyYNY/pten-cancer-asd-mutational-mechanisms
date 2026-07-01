@@ -20,21 +20,19 @@ The workflow includes:
 - Shortest-pathway analysis
 - Mechanistic interpretation of PTEN shared mutations
 
+### Workflow overview
+
+![Workflow overview](figures/workflow-overview.png)
+
 ## Data Sources and Availability
 
 Three types of PTEN missense mutations, including PTEN-cancer, PTEN-ASD, and PTEN-cancer/ASD mutations, along with their associated phenotypic information, were systematically retrieved from the ClinVar database ([https://www.ncbi.nlm.nih.gov/clinvar/](https://www.ncbi.nlm.nih.gov/clinvar/)), the Genome Aggregation Database ([https://gnomad.broadinstitute.org/](https://gnomad.broadinstitute.org/)), and the COSMIC database ([https://cancer.sanger.ac.uk/cosmic](https://cancer.sanger.ac.uk/cosmic)).
 
 The codes for the machine learning model and the data for molecular dynamics simulations, including three replicates of the molecular dynamics trajectories, are available at Zenodo: [https://zenodo.org/records/15023200](https://zenodo.org/records/15023200).
 
-## Figures
-
-### Workflow overview
-
-![Workflow overview](figures/workflow-overview.png)
-
 ### Analysis tools overview
 
-![Workflow overview](figures/tolls-overview.png)
+![Workflow overview](figures/tools-overview.png)
 
 ## Repository Structure
 
