@@ -32,7 +32,7 @@ The codes for the machine learning model and the data for molecular dynamics sim
 
 ### Analysis tools overview
 
-![Workflow overview](figures/tools-overviews.png)
+![Analysis tools overview](figures/tools-overviews.png)
 
 ## Repository Structure
 
@@ -40,7 +40,6 @@ The codes for the machine learning model and the data for molecular dynamics sim
 data/
 docs/
 notebooks/
-scripts/
 src/
 md/
 results/
